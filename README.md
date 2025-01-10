@@ -2,12 +2,10 @@
 Semester 1 Final (and other things)
 
 #Project 1: MadLibs
-#This first project is a MadLibs simulator. The code asks for various user inputs, then sticks 'em all together into a funny story. This code is unique because I worked hard to properly string all the inputs together into a 
-#story that made sense. I used different functions to make sure all the words had the same capitalztion, ect.
+#This first project is a MadLibs simulator. The code asks for various user inputs, then sticks 'em all together into a funny story. This code is unique because I worked hard to properly string all the inputs together into a story that made sense. I used different functions to make sure all the words had the same capitalztion, ect.
 
 #Project 2: PokemonChallenge
-#This second project is my most complex. I uploaded images that represented each stage of my Pokemon. Then, I created an interactive game that allowed users to train, battle, rest, and compete in a final boss round. I chose
-#this code because it took mutiple days and a whole lot of hard work. It was my first time using a "while True" loop and having mutiple input options.
+#This second project is my most complex. I uploaded images that represented each stage of my Pokemon. Then, I created an interactive game that allowed users to train, battle, rest, and compete in a final boss round. I chose this code because it took mutiple days and a whole lot of hard work. It was my first time using a "while True" loop and having mutiple input options.
 
 #Project 3: RockPaperScissors
 #For this code, I used an assortment of features. I used a random number generator, which decided either rock, paper, or scissors. Whoever plays the code will battle the computer in a simple game, will then learn their score/standing, and whether they won or lost against the commuter. Like the PokemonChallenge, I made the code continous using "while True".
